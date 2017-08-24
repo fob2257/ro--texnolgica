@@ -1,2 +1,4 @@
-#ro-texnolgica
+# ro-texnolgica
+```
 Funciona con PHPMailer y send_mail.php
+```
